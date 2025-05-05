@@ -1,0 +1,10 @@
+Jan;Kowalski;Mazowieckie;Warszawa;00-001;Aleje Jerozolimskie;1;2;123456789;12345678901;jan@example.com;jan@example.com;password123;2024-03-27;licene123;2024-03-27
+Anna;Nowak;Wielkopolskie;Poznań;00-002;ul. Święty Marcin;3;4;987654321;09876543210;anna@example.com;anna@example.com;password456;2024-03-27;licene456;2024-03-27
+Marek;Wiśniewski;Śląskie;Katowice;00-003;ul. Mariacka;5;6;246801357;13579246801;marek@example.com;marek@example.com;password789;2024-03-27;licene789;2024-03-27
+Katarzyna;Dąbrowska;Małopolskie;Kraków;00-004;ul. Floriańska;7;8;135792468;24680135790;katarzyna@example.com;katarzyna@example.com;passwordabc;2024-03-27;liceneabc;2024-03-27
+Tomasz;Lewandowski;Pomorskie;Gdańsk;00-005;ul. Długa;9;10;987654321;98765432109;tomasz@example.com;tomasz@example.com;passworddef;2024-03-27;licenedef;2024-03-27
+Alicja;Wójcik;Lubelskie;Lublin;00-006;ul. Krakowskie Przedmieście;11;12;012345678;01234567890;alicja@example.com;alicja@example.com;passwordghi;2024-03-27;liceneghi;2024-03-27
+Piotr;Kamiński;Łódzkie;Łódź;00-007;ul. Piotrkowska;13;14;678901234;67890123456;piotr@example.com;piotr@example.com;passwordjkl;2024-03-27;licenejkl;2024-03-27
+Magdalena;Zielińska;Podkarpackie;Rzeszów;00-008;ul. 3 Maja;15;16;543210987;54321098765;magdalena@example.com;magdalena@example.com;passwordmno;2024-03-27;licenemno;2024-03-27
+Paweł;Szymański;Dolnośląskie;Wrocław;00-009;ul. Świdnicka;17;18;890123456;89012345678;pawel@example.com;pawel@example.com;passwordpqr;2024-03-27;licenepqr;2024-03-27
+Karolina;Woźniak;Opolskie;Opole;00-010;ul. Piastowska;19;20;765432109;76543210987;karolina@example.com;karolina@example.com;passwordstu;2024-03-27;licenestu;2024-03-27

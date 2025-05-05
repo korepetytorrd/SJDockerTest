@@ -1,0 +1,3 @@
+1;Jan;Kowalski;Mazowieckie;Warszawa;00-001;Krakowska;24;5;123456789;99010112345;jan.kowalski@example.com;true;zaq1@WSX;2023-04-01;2023-04-25;PL1234567
+2;Anna;Nowak;Śląskie;Katowice;40-112;Główna;10;;987654321;88020223456;anna.nowak@example.com;true;xsw2#EDC;2023-03-15;2023-04-25;PL2345678
+3;Piotr;Zieliński;Wielkopolskie;Poznań;61-222;Morska;5;12;756123852;77121234567;piotr.zielinski@example.com;false;rfv4%TGB;2023-01-10;2023-04-25;PL3456789

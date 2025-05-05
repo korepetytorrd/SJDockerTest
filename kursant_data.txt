@@ -1,0 +1,10 @@
+1;Jan;Kowalski;Mazowieckie;Warszawa;00-001;Aleje Jerozolimskie;1;2;123456789;12345678901;jan@example.com;jan@example.com;p482c811da5d5b4bc6d497ffa98491e38;2024-03-27;2024-03-27;11111111111111111111
+1;Anna;Nowak;Wielkopolskie;Poznań;00-002;ul. Święty Marcin;3;4;987654321;09876543210;anna@example.com;anna@example.com;96b33694c4bb7dbd07391e0be54745fb;2024-03-27;2024-03-27;11111111111111111112
+1;Marek;Wiśniewski;Śląskie;Katowice;00-003;ul. Mariacka;5;6;246801357;13579246801;marek@example.com;marek@example.com;7d347cf0ee68174a3588f6cba31b8a67;2024-03-27;2024-03-27;11111111111111111113
+1;Katarzyna;Dąbrowska;Małopolskie;Kraków;00-004;ul. Floriańska;7;8;135792468;24680135790;katarzyna@example.com;katarzyna@example.com;8223fe8dc0533c6ebbb717e7fda2833c;2024-03-27;2024-03-27;11111111111111111114
+1;Tomasz;Lewandowski;Pomorskie;Gdańsk;00-005;ul. Długa;9;10;987654321;98765432109;tomasz@example.com;tomasz@example.com;93c7193b9df7aeface4b2d4d00902581;2024-03-27;2024-03-27;11111111111111111115
+1;Alicja;Wójcik;Lubelskie;Lublin;00-006;ul. Krakowskie Przedmieście;11;12;012345678;01234567890;alicja@example.com;alicja@example.com;2dd0606c3823a1fb07cc61743541ca76;2024-03-27;2024-03-27;11111111111111111116
+1;Piotr;Kamiński;Łódzkie;Łódź;00-007;ul. Piotrkowska;13;14;678901234;67890123456;piotr@example.com;piotr@example.com;passwordjkl;2024-03-27;884dcc9e795280227f19b0b4aab16e96;2024-03-27;11111111111111111117
+1;Magdalena;Zielińska;Podkarpackie;Rzeszów;00-008;ul. 3 Maja;15;16;543210987;54321098765;magdalena@example.com;magdalena@example.com;90e0274ae1aa6c7e0b1a4b6f489243b1;2024-03-27;2024-03-27;11111111111111111118
+1;Paweł;Szymański;Dolnośląskie;Wrocław;00-009;ul. Świdnicka;17;18;890123456;89012345678;pawel@example.com;pawel@example.com;5baabdf12cd3381991c88388a47f364e;2024-03-27;2024-03-27;11111111111111111119
+1;Karolina;Woźniak;Opolskie;Opole;00-010;ul. Piastowska;19;20;765432109;76543210987;karolina@example.com;karolina@example.com;4c784736a737cbdbba765a792b640484 b ;2024-03-27;2024-03-27;11111111111111111110

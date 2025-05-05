@@ -1,0 +1,1 @@
+2;Ewa;Malinowska;Pomorskie;Gdańsk;80-355;Grunwaldzka;22;;519283746;92051523451;ewa.malinowska@example.com;false;39f16ed11c546a7848b9acbb07f16351;2023-03-12;2023-04-25;Ewcia
