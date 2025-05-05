@@ -2,19 +2,15 @@ FROM maven:3.9.6-eclipse-temurin-21 AS build
 WORKDIR /app
 COPY pom.xml .
 COPY src ./src
-RUN mvn clean package -DskipTests
+RUN mvn clean package -DskipTests  # Tutaj generuje się SzkolaJazdy-1.0-SNAPSHOT.jar
 
-# Final stage with Alpine
 FROM eclipse-temurin:21-jre-alpine
 WORKDIR /app
+# Kopiuj JAR z poprzedniego etapu 
+COPY --from=build /app/target/SzkolaJazdy-1.0-SNAPSHOT.jar app.jar  
 
-# Copy the JAR with dependencies (assuming you use maven-assembly-plugin)
-COPY --from=build /app/target/*-with-dependencies.jar app.jar
-
-# Install X11 libs for Swing
+# Instalacja bibliotek dla GUI i skryptu entrypoint
 RUN apk add --no-cache xvfb libxrender libxtst libxi
-
-# Entrypoint script
 COPY entrypoint.sh .
 RUN chmod +x entrypoint.sh
 ENTRYPOINT ["./entrypoint.sh"]
