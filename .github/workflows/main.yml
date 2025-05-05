@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 env:
-  DOCKER_IMAGE_NAME: "korepetytorrd/SJDockerTest"  # Zastąp swoją nazwą
+  DOCKER_IMAGE_NAME: "korepetytorrd/sjdockertest"  # Zastąp swoją nazwą
   DOCKERHUB_USERNAME: ${{ secrets.DOCKERHUB_USERNAME }}
   DOCKERHUB_TOKEN: ${{ secrets.DOCKERHUB_TOKEN }}
 
